@@ -50,7 +50,7 @@ function App() {
               }}
             />
             <input
-              type="text"
+              type="number"
               name="roomId"
               id="roomId"
               placeholder="Enter a room Id"
